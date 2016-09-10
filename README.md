@@ -3,6 +3,7 @@
 ####Codewars Katas Passed:
 
 * Sum of the first nth term of Series - 8/13/2016
+* Sort deck of cards - 8/26/2016
 
 ####Codefellows Challengs:
 
