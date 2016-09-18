@@ -8,3 +8,6 @@
 ####Codefellows Challengs:
 
 * proper-parenthetics - 8/20/2016
+* flight-paths - 9/11/2016
+* forbes richest - 9/18/2016
+
