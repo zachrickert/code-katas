@@ -1,9 +1,9 @@
 *.pyc
-.cache/
-.tox/
-__pycache__/
-bin/
-lib/
-pip-selfcheck.json
-pyvenv.cfg
 *egg-info
+.cache
+.tox
+__pycache__
+bin
+lib
+pip-selfcheck.json
+*.cfg
