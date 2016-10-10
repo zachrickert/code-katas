@@ -8,3 +8,4 @@
 ####Codefellows Challengs:
 
 * proper-parenthetics - 8/20/2016
+* autocompletion - 10/9/2016
