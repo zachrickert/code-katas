@@ -1,3 +1,5 @@
+*.pyc
+*egg-info
 .cache
 .tox
 __pycache__
@@ -5,5 +7,3 @@ bin
 lib
 pip-selfcheck.json
 *.cfg
-*.pyc
-*egg-info
