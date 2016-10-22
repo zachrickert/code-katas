@@ -15,6 +15,9 @@ class AutoCompleter(Trie):
         self.load(my_input)
         self.max_completions = max_completions
 
+    def __call__(self, start):
+        print(self.complete_me(start))
+
     def complete_me(self, start):
         """Returns a list of posible completions."""
         return_list = []
